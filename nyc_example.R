@@ -1,6 +1,4 @@
 library(tidyverse)
-library(tsModel)
-library(splines)
 library(broom)
 
 dat <- read_csv("ny.csv")
